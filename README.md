@@ -1,6 +1,6 @@
 # MemMQ
 Go in-memory message queue.
 
-I wanted to have multiple subscribers listening to a Go channel.
+I wanted to have multiple subscribers listening to a Go channel with message retries.
 
-It has two functions: `Publish` and `Subscribe` and only 50 lines of code:)
+It has `Publish`&`Subscribe` functions. And it's only 60 lines of code:)
